@@ -1,3 +1,3 @@
 # Multithreading
 
-Create Your First Multithreaded Application in Java
+Coursera's Create Your First Multithreaded Application in Java
